@@ -1,4 +1,4 @@
 # My Portfolio
 
-This is my portfolio for Github
+This is the beginning of my portfolio as an open source coder.
 
